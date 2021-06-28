@@ -1,0 +1,2 @@
+# Prevents % from showing on new Hyper terminals - see https://github.com/vercel/hyper/issues/2144#issuecomment-326741620
+unsetopt PROMPT_SP
